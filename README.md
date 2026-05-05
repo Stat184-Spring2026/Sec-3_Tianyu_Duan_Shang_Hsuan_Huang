@@ -1,28 +1,44 @@
-# Project Title
+# Flight Delay Analysis
 
-Write a 1-2 sentences that quickly and clearly convey what your repo is for.
+This repository analyzes flight delays in the United States to understand the main causes of delays and whether flight distance affects total delay time.
 
 ## Overview
 
-Expand on those introductory sentences with a brief but informative description of your project's purpose and goals. This section should help visitors decide whether they should dig deeper into your repo/project.
+This project uses U.S. flight data to explore key factors contributing to flight delays. We focus on three main types of delays: carrier delay, weather delay, and NAS delay. Using R's visualization tools, we aim to identify patterns and relationships in the data.
+
+Our goal is to determine which factors have the greatest impact on delays and whether flight distance plays a significant role.
 
 ### Interesting Insight (Optional)
 
-This is optional but highly recommended. You'll include one interesting insight from your project as part of the README. This insight is most effective when you include a visual. Keep in mind that this visual must be included as an image file (e.g., JPG, PNG, etc.). You can export plots created with `{ggplot2}` by using the function `ggsave`.
+One key insight from our analysis is that **carrier delay is the largest contributor to total flight delay**, suggesting that airline operations have a greater impact than external factors such as weather.
+
+Below is an example visualization:
+<img width="1366" height="1060" alt="d845451d-9b08-49d9-af90-f28c230637ec" src="https://github.com/user-attachments/assets/6cbed7b3-e94d-42ad-a4e6-77cb6d0cacce" />
 
 ## Data Sources and Acknowledgements
 
-Be sure to list where you got any data used within the project. Be sure to acknowledge any one whose work or elements you're drawing upon.
+The dataset used in this project comes from U.S. flight data sources.
+
+We acknowledge the use of:
+- R programming language
+- tidyverse package (dplyr, ggplot2)
 
 ## Current Plan
 
-Provide some information about what you intend to do with the project. You can additionally refer the visitor to your detailed plan document.
+We plan to:
+- Clean and prepare the dataset
+- Combine multiple delay variables into a total delay metric
+- Create visualizations to identify patterns
+- Interpret findings and explain the causes of flight delays
 
 ## Repo Structure
 
-Use this section to explain the structure of your repo. This should help visitors quickly figure out where they should look to find certain elements. Further, you can use this space to highlight and briefly explain important/key files in the repo.
-
+- `report.qmd` → Main analysis report
+- `T_ONTIME_REPORTING 2(1).csv` → Raw dataset
+- `README.md` → Project description
+- `plots/` → Saved visualization images
 
 ## Authors
 
-Give information about who are the authors of the project and how people can get in touch if they have questions.
+- Shang-Hsuan Huang (sfh5800@psu.edu) 
+- Tianyu Duan
