@@ -41,4 +41,4 @@ We plan to:
 ## Authors
 
 - Shang-Hsuan Huang (sfh5800@psu.edu) 
-- Tianyu Duan
+- Tianyu Duan （tpd5376@psu.edu)
