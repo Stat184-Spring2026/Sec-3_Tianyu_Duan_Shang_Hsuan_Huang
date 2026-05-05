@@ -42,3 +42,10 @@ We plan to:
 
 - Shang-Hsuan Huang (sfh5800@psu.edu) 
 - Tianyu Duan （tpd5376@psu.edu)
+
+## Graph
+![Delay Plot](delay_plot.png)
+
+![Top Routes](top_routes_plot.png)
+
+![Distance vs Delay](distance_delay_plot.png)
