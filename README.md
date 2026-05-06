@@ -8,7 +8,7 @@ This project uses U.S. flight data to explore key factors contributing to flight
 
 Our goal is to determine which factors have the greatest impact on delays and whether flight distance plays a significant role.
 
-### Interesting Insight (Optional)
+### Interesting Insight 
 
 One key insight from our analysis is that **carrier delay is the largest contributor to total flight delay**, suggesting that airline operations have a greater impact than external factors such as weather.
 
