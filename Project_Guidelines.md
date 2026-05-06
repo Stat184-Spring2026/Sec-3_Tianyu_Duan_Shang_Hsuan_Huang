@@ -71,11 +71,11 @@ The following checklist provides your team with an expanded listing of all eleme
     - [ ] There should be narrative text helping readers to better understand what each visualization helps them to learn about the data and context.
   - [ ] Your report should contain narrative text (beyond explaining tables and figures) that explains the overall data story or context and helps the reader make sense of what is going on. That is, take the reader on a journey.
   - [ ]  You should properly cite any work you reference (including data) according to your choice of citation style. We've included files for APA7 and MLA9 as part of this template. If you want to use a different citation style, you will need download the CSL file from the [Zotero Style Respository](https://www.zotero.org/styles/) and include it in your team's repo.
-  - [ ] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
-  - [ ] All code chunks should have a Code Header that contains who the primary author of the chunk is and who reviewed the chunk.
-  - [ ] Follow and apply the principles and elements of Open Science (and PCIP).
-  - [ ] Include an Author Contribution section at the end of the report, before the Code Appendix.
-- [ ] Sign up for and complete a Work-in-Progress Presentation ([details](#work-in-progress-presentations) below)
+  - [x] All code should be written according to a Style Guide of your choice. List this Style Guide as a code comment in your first code chunk.
+  - [x] All code chunks should have a Code Header that contains who the primary author of the chunk is and who reviewed the chunk.
+  - [x] Follow and apply the principles and elements of Open Science (and PCIP).
+  - [x] Include an Author Contribution section at the end of the report, before the Code Appendix.
+- [x] Sign up for and complete a Work-in-Progress Presentation ([details](#work-in-progress-presentations) below)
 - [ ] Finalize your work and submit your report as a __PDF__ to the appropriate submission portal in Canvas by the deadline.
   - [ ] As a comment on your submission, include a link to your team's project repo.
 - [ ] Each team member must complete their Peer & Self Evaluations for working together on this project. This will be an assignment in MyOpenMath and needs to be completed by the deadline.
