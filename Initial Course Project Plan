@@ -1,6 +1,6 @@
-Initial Course Project Plan
+# Initial Course Project Plan
 
-Project Goals
+## Project Goals
 The main goal of our project is to explore patterns and trends in U.S. flight delay data using exploratory data analysis (EDA). We want to understand how different factors, such as route, flight distance, and delay type, affect total flight delays. Through this project, we also want to improve our skills in data cleaning, data visualization, collaboration, and statistical communication.
 Our group hopes to answer questions such as:
 Which types of delays contribute the most to overall delays?
@@ -8,7 +8,7 @@ Do longer flights tend to experience larger delays?
 Which flight routes appear most frequently and have the highest delays?
 In addition to answering these research questions, each team member will create their own visualization and analysis to demonstrate individual contributions and understanding of the data.
 
-Resources Needed
+## Resources Needed
 To complete this project successfully, our team will need:
 A reliable and detailed dataset with multiple variables
 R and RStudio for data analysis and visualization
@@ -18,7 +18,7 @@ Clear division of responsibilities
 Enough time for both individual and group work
 Internet access and documentation resources for troubleshooting
 
-Planned Steps and Responsibilities
+## Planned Steps and Responsibilities
 1. Choose a Research Topic and Questions (Both Members)
 Our team will first decide on a transportation-related topic and create several research questions related to flight delays and airport traffic patterns.
 2. Obtain and Understand the Dataset (Both Members)
@@ -38,7 +38,7 @@ The team will combine all analyses, visualizations (ShangHsuan), explanations, a
 8. Prepare the Presentation (Both Members)
 We will summarize our research question, findings, and challenges into a short presentation for the class.
 
-Data Source
+## Data Source
 We are using real-world transportation data from the U.S. Department of Transportation Bureau of Transportation Statistics (BTS).
 Data source:
  https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ&QO_fu146_anzr=b0-gvzr
