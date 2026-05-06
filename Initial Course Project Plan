@@ -23,7 +23,7 @@ Planned Steps and Responsibilities
 Our team will first decide on a transportation-related topic and create several research questions related to flight delays and airport traffic patterns.
 2. Obtain and Understand the Dataset (Both Members)
 We will download flight delay data from the U.S. Department of Transportation database and examine the variables, structure, and possible limitations of the data.
-3. Clean and Prepare the Data (Shang-Hsuan)
+3. Clean and Prepare the Data (Shang-Hsuan, with check from Tianyu)
 We will remove missing or unnecessary values, create new variables such as total delay and route names, and prepare the data for analysis and visualization.
 4. Conduct Exploratory Data Analysis (Both Members)
 We will calculate descriptive statistics and explore trends, distributions, and relationships in the dataset.
